@@ -102,7 +102,7 @@ a:visited {
 	margin: 2em 0 1em 0;
 	/* Typography Declarations */
 	color: #e29f2c;
-	font-family: 'Amita', cursive;
+	font-family: 'Kaushan Script', cursive;
 	font-size: 1.5em;
 	font-weight: bold;
 }
@@ -117,7 +117,7 @@ a:visited {
 .content-footer {
 	/* Layout Declarations */
 	margin-top: 3em;
-	padding: 4em 0;
+	padding: 6em 0;
 	/* Appearance Rules */
 	background-color: #594F49;
 
