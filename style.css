@@ -101,7 +101,7 @@ a:visited {
 	margin: 2em 0 1em 0;
 	/* Typography Declarations */
 	color: #e29f2c;
-	font-family: "Gentium Book Basic", Georgia, serif;
+	font-family: 'Nanum Brush Script', cursive;
 	font-size: 1.2em;
 	font-weight: bold;
 }
@@ -150,7 +150,4 @@ img{
   width:300px;
   margin-left:800px;
   border: 15px ridge #eb47a7;
-}
-.hearts{
-  background: url('https://blackbelt.gr/wp-content/uploads/2017/06/sakura.jpg');
 }
