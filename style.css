@@ -1,4 +1,154 @@
-p{
-  font-size-:12px;
-  color:Blue;
+* {
+  box-sizing:border-box;
+}
+
+body {
+  color:#43abdb;
+  font-size:1em;
+  font-family:"Open Sans","Helvetica Neue",sans-serif;
+}
+
+::selection {
+  background:#45d6de;
+}
+
+a {
+  font-weight:bold;
+  text-decoration:none;
+  color:#8349d0;
+}
+
+a:hover {
+  /*typography declarations*/
+  color:#e81152;
+}
+
+a:visited {
+  /*typography declarations*/
+  color:#d82d6c;
+}
+
+.masthead,
+.introduction,
+.location,
+.questions,
+.content-footer {
+  padding-left:2em;
+  padding-right:2em;
+}
+
+.masthead-intro,
+.masthead-heading,
+.content-footer > p,
+.social {
+  text-align:center;
+}
+
+.introduction,
+.location,
+.questions {
+  max-width: 38em;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.introduction > p,
+.location > p,
+.content-footer > p, {
+  font-weight:300;
+  letter-spacing:0.05em;
+}
+
+.masthead {
+  padding:6em 0;
+  background-image: url('https://images7.alphacoders.com/411/thumb-1920-411820.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  border-top:solid 1em #ec6a9c;
+}
+
+.masthead-intro {
+	/* Layout Declarations */
+	margin-bottom: 0.1em;
+	/* Typography Declarations */
+	color: #FFFFFF;
+	font-family: "Gentium Book Basic", Georgia, serif;
+	font-size: 2em;
+}
+
+.masthead-heading {
+	/* Layout Declarations */
+	margin-top: -0.2em;
+	/* Typography Declarations */
+	color: #ffe9a0;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 6em;
+	letter-spacing: -0.02em;
+	text-transform: uppercase;
+	text-shadow: 0px 3px 0px #5353e0;
+}
+
+.heading {
+	/* Layout Declarations */
+	max-width: 19em;
+	margin-top: 2em;
+}
+
+.question {
+	/* Layout Declarations */
+	margin: 2em 0 1em 0;
+	/* Typography Declarations */
+	color: #e29f2c;
+	font-family: "Gentium Book Basic", Georgia, serif;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.answer {
+	/* Layout Declarations */
+	margin-left: 0em;
+}
+
+.content-footer {
+	/* Layout Declarations */
+	margin-top: 5em;
+	padding: 4em 0;
+	/* Appearance Rules */
+	background-color: #594F49;
+}
+
+.content-footer > p {
+  /* Typography Declarations */
+  color: white;
+}
+
+.social {
+	/* Layout Declarations */
+	padding: 0;
+	/* Appearance Declarations */
+	list-style: none;
+}
+
+.social > li {
+	/* Layout Declarations */
+	display: inline-block;
+	margin-right: 1em;
+}
+
+@media screen and (max-width: 500px) {
+  .masthead {
+    padding:  3em 0;
+  }
+  .masthead-heading {
+    font-size: 3em;
+  }
+}
+
+img{
+  width:300px;
+  margin-left:900px;
+  vertical-align:center;
+  border: 15px ridge #eb47a7;
 }
