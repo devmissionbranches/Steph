@@ -152,5 +152,7 @@ img{
   border: 15px ridge #eb47a7;
 }
 .hearts{
-background: url('http://www.printawallpaper.com/upload/designs/grunge_flowers_detail.jpg');
+  background: url('http://vintagebackgrounds.tumblr.com/image/45201961440');
+  background-repeat:no-repeat;
+  background-size:cover;
 }
