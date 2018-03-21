@@ -4,7 +4,7 @@
 
 body {
   color:#43abdb;
-  font-size:5em;
+  font-size:1.5em;
   font-family:'Sacramento', cursive;
 }
 
@@ -63,8 +63,9 @@ a:visited {
   padding:6em 0;
   background-image: url('https://images7.alphacoders.com/411/thumb-1920-411820.jpg');
   background-repeat:no-repeat;
-  background-size:cover;
+  background-size: 75% 50;
   border-top:solid 1em #ec6a9c;
+
 }
 
 .masthead-intro {
