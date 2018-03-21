@@ -66,6 +66,12 @@ a:visited {
   background-size:cover;
   border-top:solid 1em #ec6a9c;
 }
+.masthead {
+  padding:6em 0;
+  background-image: url('https://weheartit.com/thestarsarewatchingyou/collections/14050850-kawaii');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
 
 .masthead-intro {
 	/* Layout Declarations */
