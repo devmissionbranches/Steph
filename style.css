@@ -62,7 +62,6 @@ a:visited {
 .masthead {
   background-image: url('https://images7.alphacoders.com/411/thumb-1920-411820.jpg');
   background-repeat:no-repeat;
-  background-size: 100%;
   background-size:cover;
   border-top:solid 1em #ec6a9c;
 }
