@@ -63,7 +63,8 @@ a:visited {
   padding:6em 0;
   background-image: url('https://images7.alphacoders.com/411/thumb-1920-411820.jpg');
   background-repeat:no-repeat;
-  background-size: 75% 50;
+  background-size: 95%;
+  background-size:cover;
   border-top:solid 1em #ec6a9c;
 
 }
@@ -149,6 +150,6 @@ a:visited {
 
 img{
   width:300px;
-  margin-left:800px;
+  margin-left:1000px;
   border: 15px ridge #eb47a7;
 }
