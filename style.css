@@ -119,9 +119,10 @@ a:visited {
 	/* Layout Declarations */
 	margin-top: 5em;
 	padding: 4em 0;
+  max-width:200px;
 	/* Appearance Rules */
 	background-color: #594F49;
-  width:200px;
+
 }
 
 .content-footer > p {
