@@ -3,7 +3,7 @@
 }
 
 body {
-  color:#43abdb;
+  color:#e5df64;
   font-size:1.6em;
   font-family:'Sacramento', cursive;
 }
@@ -113,7 +113,6 @@ a:visited {
 	/* Layout Declarations */
 	margin-left: 0em;
   font-size: 1.5em;
-  color: #e5df64;
 }
 
 .content-footer {
