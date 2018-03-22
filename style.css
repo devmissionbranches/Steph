@@ -60,11 +60,12 @@ a:visited {
 }
 
 .masthead {
-  padding: 6em 0;
+  padding-top: 1.5em 0;
   background-image: url('https://images7.alphacoders.com/411/thumb-1920-411820.jpg');
   background-repeat:no-repeat;
   background-size:cover;
   border-top:solid 1em #ec6a9c;
+  border-bottom: solid 1em #ec6a9c;
 }
 
 .masthead-intro {
@@ -116,7 +117,7 @@ a:visited {
 
 .content-footer {
 	/* Layout Declarations */
-	margin-top: 3em;
+	margin-top: 2.5em;
 	padding: 6em 0;
 	/* Appearance Rules */
 	background-color: #594F49;
