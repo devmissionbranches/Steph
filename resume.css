@@ -39,3 +39,9 @@
    font-size: 20px;
    padding: 10px 20px;
  }
+ .photo{
+   width:300px;
+   height:300px;
+   margin-left:800px;
+   //border: 15px ridge #eb47a7;
+ }
