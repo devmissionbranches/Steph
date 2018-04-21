@@ -1,0 +1,41 @@
+.container {
+   display: flex;
+ }
+
+ .main {
+   width: 65%;
+ }
+
+ .sidebar {
+   width: 35%;
+   padding: 2%;
+   background: grey;
+ }
+
+ .photo {
+   width: 100%;
+   border-radius: 50%;
+ }
+
+ a {
+   background-color: black;
+   display: block;
+   width: 90%;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   text-align: left;
+   overflow: hidden;
+ }
+
+ a {
+   background-color: #E6E8EE;
+   display: block;
+   border 5px;
+   border-color: black;
+   text-decoration: none;
+ }
+
+ ul {
+   font-size: 20px;
+   padding: 10px 20px;
+ }
