@@ -56,11 +56,6 @@ text-align:center;
    background-repeat: no-repeat;
    background-size:cover;
    color:#5820b2;
-   font-family:'Fjalla One', sans-serif;
+   font-family:'Kaushan Script', cursive;
    //text-align: center;
  }
-.name{
-  font-size: 20px;
-  padding: 10px 20px;
-  background-color: lightgrey;
-}
