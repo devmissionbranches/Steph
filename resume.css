@@ -1,16 +1,11 @@
-*{
-  //font-size: 20px;
-  //padding: 10px 20px;
-  //border-top: 6px solid #4286f4;
-  //margin: 25px 50px 75px 100px;
-  //background-color: lightgrey;
+.random{
+text-align:center;
 }
 .photo{
   width:200px;
   height:200px;
   margin-left:800px;
   border: 15px ridge #c0cebb;
-  //width: 100%;
   border-radius:1000%;
   margin-left:200px;
 }
@@ -49,14 +44,11 @@
 .skill {
    font-size: 20px;
    padding: 10px 20px;
-   //border-top: 6px solid #4286f4;
-   //margin: 25px 50px 75px 100px;
    background-color: lightgrey;
  }
- h2,ul{
+ h2,ul,h3{
     font-size: 20px;
-    //border-top: 6px solid #4286f4;
-    margin: 25px 50px 75px 100px;
+    margin: 25px 25px 25px 25px;
     background-color: lightgrey;
  }
  .body{
@@ -67,3 +59,8 @@
    font-family:'Fjalla One', sans-serif;
    //text-align: center;
  }
+.name{
+  font-size: 20px;
+  padding: 10px 20px;
+  background-color: lightgrey;
+}
