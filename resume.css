@@ -1,3 +1,9 @@
+.photo{
+  width:50px;
+  height:50px;
+  margin-left:800px;
+  //border: 15px ridge #eb47a7;
+}
 .container {
    display: flex;
  }
@@ -35,13 +41,7 @@
    text-decoration: none;
  }
 
- ul {
+.skill {
    font-size: 20px;
    padding: 10px 20px;
- }
- .photo{
-   width:50px;
-   height:50px;
-   margin-left:800px;
-   //border: 15px ridge #eb47a7;
  }
