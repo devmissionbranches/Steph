@@ -117,9 +117,11 @@ a:visited {
 
 .content-footer {
 	/* Layout Declarations */
-	margin-top: 2.5em;
+	 margin-top: 2.5em;
 	 padding: 3.5em 0;
    width:100%;
+   left: 0;
+   bottom: 0;
 	/* Appearance Rules */
 	background-color: #594F49;
 
