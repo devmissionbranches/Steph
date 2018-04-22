@@ -45,16 +45,25 @@
 .skill {
    font-size: 20px;
    padding: 10px 20px;
+   border-top: 6px solid #4286f4;
+    margin: 25px 50px 75px 100px;
+   background-color: lightgrey;
  }
- ul{
+ //ul{
     font-size: 20px;
+    border-top: 6px solid #4286f4;
+    margin: 25px 50px 75px 100px;
+    background-color: lightgrey;
  }
  .dots{
-  margin-left:50px;
+   margin: 10px 25px 35px 50px;
+   border-bottom: 6px solid #4286f4;
+   background-color:lightgrey;
  }
  .body{
    background-image: url('http://wyskytech.com/wp-content/uploads/2018/02/vintage-floral-wallpaper-enlarge-vintage-floral-iphone-wallpaper-tumblr.jpg');
    background-repeat: no-repeat;
    background-size:cover;
-   color:#5042f4;
+   color:#5820b2;
+   font-family:'Fjalla One', sans-serif;
  }
