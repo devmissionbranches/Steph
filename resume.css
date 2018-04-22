@@ -1,8 +1,8 @@
 .photo{
-  width:50px;
-  height:50px;
+  width:200px;
+  height:200px;
   margin-left:800px;
-  //border: 15px ridge #eb47a7;
+  border: 15px ridge #c0cebb;
 }
 .container {
    display: flex;
@@ -15,12 +15,13 @@
  .sidebar {
    width: 35%;
    padding: 2%;
-   background: grey;
+   background: #83877c;
  }
 
  .photo {
-   width: 100%;
-   border-radius: 50%;
+   //width: 100%;
+   border-radius:1000%;
+   margin-left:200px;
  }
 
  a {
@@ -44,4 +45,16 @@
 .skill {
    font-size: 20px;
    padding: 10px 20px;
+ }
+ ul{
+    font-size: 20px;
+ }
+ .dots{
+  margin-left:50px;
+ }
+ .body{
+   background-image: url('http://wyskytech.com/wp-content/uploads/2018/02/vintage-floral-wallpaper-enlarge-vintage-floral-iphone-wallpaper-tumblr.jpg');
+   background-repeat: no-repeat;
+   background-size:cover;
+   color:#5042f4;
  }
